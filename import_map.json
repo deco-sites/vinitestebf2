@@ -1,5 +1,7 @@
 {
   "imports": {
+    "deco-sites/vinitestebf2/": "./",
+
     "deco-sites/deco-bf/": "./",
 
     "$store/": "./",
